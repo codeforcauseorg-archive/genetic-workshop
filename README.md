@@ -1,1 +1,1 @@
-# Genetic Workshop
+# genetic-workshop
